@@ -1,16 +1,7 @@
-# todoapp
+# Todotf App
 
-A new Flutter project.
+![Screenshot_20220315_225632](https://user-images.githubusercontent.com/78268762/158471439-6f76619f-8347-4e7a-b4c3-7b1b39ec1f02.png)
+![Screenshot_20220315_225636](https://user-images.githubusercontent.com/78268762/158471442-ac969e3b-1c67-4a51-961b-326d2027dc81.png)
+![Screenshot_20220315_225457](https://user-images.githubusercontent.com/78268762/158471445-e011aeaf-b5e6-4e67-bdad-eb8913c4b3d3.png)
+![Screenshot_20220315_225601](https://user-images.githubusercontent.com/78268762/158471450-4c724eb0-e138-4309-b293-10536f7aa879.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
